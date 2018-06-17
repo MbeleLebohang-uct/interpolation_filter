@@ -1,0 +1,1802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"C:\Users\tate\Documents\School-UCT\4th Year\EEE4084F\workspace\cic_interpolator\CIC_Interpolator.v" Line 71: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">d_out</arg>&gt;. Formal port size is <arg fmt="%d" index="2">32</arg>-bit while actual signal size is <arg fmt="%d" index="1">1</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"C:\Users\tate\Documents\School-UCT\4th Year\EEE4084F\workspace\cic_interpolator\CIC_Interpolator.v" Line 74: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">d_in</arg>&gt;. Formal port size is <arg fmt="%d" index="2">32</arg>-bit while actual signal size is <arg fmt="%d" index="1">1</arg>-bit.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="old" > FFs/Latches &lt;<arg fmt="%s" index="1">mem_write_EN</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">Comb</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Upsample</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">d_out_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">comb4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/mem_write_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/d_out_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/mem_write_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/d_out_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/mem_write_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/d_out_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/mem_write_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/d_out_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/o_data_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb1/memory/memory_array_0_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/o_data_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb2/memory/memory_array_0_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/o_data_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb3/memory/memory_array_0_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/o_data_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">comb4/memory/memory_array_0_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Upsample/d_out_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CIC_Interpolator</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">clk_scaler_counter_2</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">CIC_Interpolator</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">clk_scaler_counter_3</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">CIC_Interpolator</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">clk_scaler_counter_4</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">CIC_Interpolator</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">clk_scaler_counter_5</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">CIC_Interpolator</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">clk_scaler_counter_6</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">CIC_Interpolator</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">clk_scaler_counter_7</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">CIC_Interpolator</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+</messages>

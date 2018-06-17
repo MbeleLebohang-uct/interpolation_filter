@@ -1,0 +1,5 @@
+verilog work "SRAM.v"
+verilog work "upsampler.v"
+verilog work "Intergrator.v"
+verilog work "comb.v"
+verilog work "CIC_Interpolator.v"

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/tate/Documents/School-UCT/4th Year/EEE4084F/workspace/cic_interpolator/clk_mul_tb_isim_beh.exe" -prj "C:/Users/tate/Documents/School-UCT/4th Year/EEE4084F/workspace/cic_interpolator/clk_mul_tb_beh.prj" "work.clk_mul_tb" "work.glbl" 

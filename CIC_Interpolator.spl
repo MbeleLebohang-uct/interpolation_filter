@@ -1,0 +1,10 @@
+[Inputs]
+clk
+rst
+=d_in[31:0]=
+[Outputs]
+=d_out[31:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel CIC_Interpolator
+
